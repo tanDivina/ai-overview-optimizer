@@ -1,0 +1,61 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/plugins/
+wp-content/themes/
+wp-content/debug.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Composer
+vendor/
+
+# PHP
+*.log
+error_log
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# API keys and sensitive data
+.env
+.env.local
+.env.*.local
+config.php
+secrets.php
+
+# Testing
+phpunit.xml
+tests/_output/
+tests/_reports/
+
+# Build files
+build/
+dist/
